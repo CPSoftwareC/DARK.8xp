@@ -1,5 +1,7 @@
-<!-- README.md Versão 2.0 -->
+<!-- README.md Versão 2.1 -->
 <h2>Prgm OCTANTES</h2>
+
+![GitHub all releases](https://img.shields.io/github/downloads/CPSoftwareC/DARK.8xp/total?style=plastic)
 
 <h3>Biografia</h3>
 
