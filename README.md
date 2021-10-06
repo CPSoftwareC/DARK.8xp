@@ -1,46 +1,39 @@
-<!-- README.md Versão 2.1 -->
-<h2>Prgm OCTANTES</h2>
+## Prgm DARK
 
-![GitHub all releases](https://img.shields.io/github/downloads/CPSoftwareC/DARK.8xp/total?style=plastic)
+![GitHub all releases](https://img.shields.io/github/downloads/CPSoftwareC/DARK.8xp/total?label=Downloads&style=plastic)
 
-<h3>Biografia</h3>
+### Biografia
 
-<p>Desenvolvido em Assembly. Desenvolvido com os comandos "Asm84CEPrgm" e "AsmComp(", para que o CPU faça um inversão das cores do Display da Calculadora. Fazendo assim uma espécie de "Dark Mode".</p>
+Desenvolvido em Assembly. Desenvolvido com os comandos _Asm84CEPrgm_ e _AsmComp(_, para que o CPU faça um inversão das cores do Display da Calculadora. Fazendo assim algo parecido a _Dark Mode_
 
-<h2>Versão <em><strong>1.0</strong></em></h2>
+## Versão _1.0_
 
-<h3>Compatibilidade</h3>
+### Compatibilidade
 
-<ul>
- <li>TI-84 Plus CE</li>
- <li>TI-84 Plus CE-T</li>
- <li>TI-84 Plus CE-T Python Edition</li>
- <li>TI-84 Plus C Silver Edition</li>
-</ul>
+- TI-84 Plus CE
+- TI-84 Plus CE-T
+- TI-84 Plus C Silver Edition
 
-<h3>Como instalar</h3>
+### Como instalar
 
-<p>Para colocar o programa na calculadora necessitas do software da Texas Instruments, TI Connect™ CE. <a href="https://education.ti.com/pt/produtos/computer-software/ti-connect-ce-sw"> Download do TI Connect™ CE</a>. Depois de instalado:
-<ol>
-     <li>Plug-in a tua calculadora e abre o TI Connect CE</li>
-     <li>Envia o <em>DARK.8xp</em></li>
-     <li>Escolhe a tua calculadora</li>
-     <li>E clica no botão <kbd>Send</kbd> ou em português <kbd>Enviar</kbd></li>
-</ol>
+Para colocar o programa na calculadora necessitas do software da Texas Instruments, TI Connect™ CE. [Download do TI Connect™ CE](https://education.ti.com/pt/produtos/computer-software/ti-connect-ce-sw). Depois de instalado:
 
-<p> E agora já tens o <em>DARK</em> na tua calculadora</p>
+- Conecta a tua calculadora e abre o TI Connect CE
+- Envia o _DARK.8xp_
+- Escolhe a tua calculadora
+- E clica no botão <kbd>Send</kbd> ou em português <kbd>Enviar</kbd>
 
-<h3>Como executar</h3>
+E agora já tens o _DARK_ na tua calculadora
 
-<p> Para executar o programa basta pressionar o <kbd>prgm</kbd> (Menu de programas do TI-OS) e selecionar o programa <em>DARK</em></p>
+### Como executar
 
-<ol>
-     <li><kbd>prgm</kbd></li>
-     <li><kbd>alpha</kbd> + <kbd>X^-1</kbd></li>
-     <li>E selecionar o <em>DARK</em></li>
-     <li>E por ultimo pressionar <kbd>enter</kbd></li>
-</ol>
+Para executar o programa basta pressionar o <kbd>prgm</kbd> (Menu de programas do TI-OS) e selecionar o programa _DARK_
 
-<h2>Programador: <strong><em>J.C.P.</em></strong></h2>
+- <kbd>prgm</kbd>
+- <kbd>alpha</kbd> + <kbd>X^-1</kbd>
+- Selecionar o _DARK_
+- E por último pressionar <kbd>enter</kbd>
 
-<h4><a href="https://cpsoftwarecompany.epizy.com">Website da CP Software Company</a></h4>
+## Programador: _J.C.P._
+
+#### [Website da CP Software Company](http://cpsoftwarecompany.epizy.com)
